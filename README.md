@@ -6,6 +6,8 @@ From the moment I came into contact with programming, my curiosity only grew. I 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikey-salgado-79a798306/)
 
+
+## Stats
 ![Ikki GitHub stats](https://github-readme-stats.vercel.app/api?username=ikkisal&show_icons=true&theme=tokyonight)
 
 ## Hard Skills That I am Currently Learning
