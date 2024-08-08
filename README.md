@@ -5,6 +5,7 @@ From the moment I came into contact with programming, my curiosity only grew. I 
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikey-salgado-79a798306/)
+[![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ik_eys/)
 
 
 ## Stats
