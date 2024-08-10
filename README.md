@@ -1,7 +1,7 @@
 ### Hi! Im Ikey Salgado👋
 Currently studying Full Stack Web Development at  SENAI Vitória - Espirito Santo - Brasil
 
-From the moment I came into contact with programming, my curiosity only grew. I love learning new things about technology and programming and I'm currently learning .NET and C#, and I'm very happy with it! I'm looking for an internship in programming because I'm very curious about how things work and because I want to gain experience and become a better programmer every day.
+From the moment I came into contact with programming, my curiosity only grew. I love learning new things about technology and programming and I'm currently learning .NET C#, and I'm very happy with it! I'm looking for an internship in programming because I'm very curious about how things work and because I want to gain experience and become a better programmer every day.
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikey-salgado-79a798306/)
